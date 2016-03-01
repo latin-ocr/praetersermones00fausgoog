@@ -1,0 +1,9 @@
+S = eodm sangallensis 166 saon. v1111.
+P :- codex Parisinus lat. 2166 saec. VIIII (eontinet epist] et ΙΙ).
+Q - eodpx Paris. lat. 1564 9196, VIIII (continet epist. llll-vn).
+
+R - codex Paris. lat. 126117 saec. VI-VH (continet epist. 1111).
+t* - lectio uulgata.
+
+ 
+
